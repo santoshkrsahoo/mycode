@@ -1,0 +1,79 @@
+sudo apt-get install software-properties-common
+sudo add-apt-repository ppa:git-core/ppa -y
+sudo apt-get update
+sudo apt-get install git -y
+git --version
+run apt-get update
+apt-get update
+git --version
+git config --global user.name Santosh
+git config --global user.email Santoshk.sahoo@gmail.com
+git config --global autocorrect 1
+git config --global help.autocorrect 1
+git config --global core.editor vim
+git config --list
+git clone -b feat1 https://github.com/lerndevops/mycode.git
+git clone -b feat2 https://github.com/lerndevops/mycode.git
+git branch
+ls -lth
+cd mycode
+git branch
+git status
+git branch -a
+git clone -b feat1 https://github.com/lerndevops/mycode.git
+git fetch
+git clone -b feat1 https://github.com/lerndevops/mycode.git
+cd ..
+git clone -b feat1 https://github.com/lerndevops/mycode.git
+git fetch
+cd mycode
+git fetch
+git branch
+git branch -a
+cd ..
+git clone -b feat1 https://github.com/santoshkrsahoo/mycode.git
+rm mycode
+delete mycode
+rm help
+rm -help
+rm
+rm --help
+rm -r mycode
+git clone -b feat1 https://github.com/santoshkrsahoo/mycode.git
+git branch
+cd mycode
+git branch
+git branch -a
+ls -l
+touch feat1.html
+git status
+git add .
+git commit -m "feat1.html added"
+git push -u origin feat1
+vi feat1.html
+git add .
+git commit -m "feat1.html edited"
+git status --oneline
+git status --online
+git log --oneline
+git push -u origin feat1
+touch featNew1.html
+touch feat1New.java  
+cat feat1.html
+vi featNew1.html
+vi feat1New.java
+git status --oneline
+git log
+git status
+git add .
+git commit
+git commit -m "new feature added"
+git push origin -b feat1
+history
+git push -u origin feat1
+grep -help
+grep --help
+history output commandGit.txt
+history -output commandGit.txt
+history -anrw commandGit.21Apr.txt
+history -a commandGit.21Apr.txt
