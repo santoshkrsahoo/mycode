@@ -1,0 +1,62 @@
+[33mcommit 423dfd4f03dbdd45a24675de91af1440554b7361[m[33m ([m[1;36mHEAD -> [m[1;32mfeat1[m[33m, [m[1;31morigin/feat1[m[33m)[m
+Author: Santosh <Santoshk.sahoo@gmail.com>
+Date:   Tue Apr 21 17:06:52 2020 +0000
+
+    feat1.html edited
+
+[33mcommit ee06e6c71a426b10a0f8f4a83687090037d44c7c[m
+Author: Santosh <Santoshk.sahoo@gmail.com>
+Date:   Tue Apr 21 16:54:21 2020 +0000
+
+    feat1.html added
+
+[33mcommit c0d6a0fcd11ef52ccb12297aff55f8297e7669fe[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: e8ff189 fa51e0b
+Author: lerndevops <45846027+lerndevops@users.noreply.github.com>
+Date:   Wed Apr 15 08:57:26 2020 +0530
+
+    Merge pull request #1 from lerndevops/feat1
+    
+    f1
+
+[33mcommit fa51e0ba9b73a7a0b252b3fef3bcd894d0f1b12f[m
+Author: lerndevops <lerndevops@gmail.com>
+Date:   Wed Apr 15 08:51:20 2020 +0530
+
+    f1
+
+[33mcommit e8ff189e064635b05a48fc4d663240b298d2c0ea[m[33m ([m[1;31morigin/feat2[m[33m)[m
+Author: lerndevops <lerndevops@gmail.com>
+Date:   Wed Apr 15 08:22:20 2020 +0530
+
+    m6
+
+[33mcommit 4e72dee86211ffebcb137817db54c44348675758[m
+Author: lerndevops <lerndevops@gmail.com>
+Date:   Wed Apr 15 07:59:45 2020 +0530
+
+    m5
+
+[33mcommit 57d7cbca10e3ddf8fc31f5158d3e81ccb24b87b7[m
+Author: lerndevops <lerndevops@gmail.com>
+Date:   Wed Apr 15 07:57:31 2020 +0530
+
+    m4
+
+[33mcommit f5a292434e3c14b0251ba4a677f66ded6a57fe51[m
+Author: lerndevops <lerndevops@gmail.com>
+Date:   Wed Apr 15 07:53:35 2020 +0530
+
+    m3
+
+[33mcommit e3bb42ecfe4b0774fa40315fb5e102f5a58f8fe1[m
+Author: lerndevops <lerndevops@gmail.com>
+Date:   Wed Apr 15 07:48:12 2020 +0530
+
+    m2
+
+[33mcommit 8878092294fd301f61c3bd9aa9eef4bff27d441d[m
+Author: lerndevops <lerndevops@gmail.com>
+Date:   Wed Apr 15 07:42:42 2020 +0530
+
+    m1
